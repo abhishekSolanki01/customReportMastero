@@ -27,25 +27,21 @@ To get started with the project, follow these simple steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/data-table-powerbi-integration.git
+    git clone git@github.com:abhishekSolanki01/customReportMastero.git
+    
     ```
 
-2. Navigate to the project directory:
-    ```bash
-    cd data-table-powerbi-integration
-    ```
-
-3. Install dependencies:
+2. Install dependencies:
     ```bash
     npm install
     ```
 
-4. Run the development server:
+3. Run the development server:
     ```bash
     npm start
     ```
 
-5. Open your browser and go to `http://localhost:3000` to see the application in action!
+4. Open your browser and go to `http://localhost:3000` to see the application in action!
 
 ## Technologies Used
 
@@ -64,10 +60,6 @@ Here’s how you can contribute:
 3. Commit your changes.
 4. Push to your forked repository.
 5. Open a pull request with a description of your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
