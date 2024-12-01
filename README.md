@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+# Data Table with Power BI Integration
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the **Data Table with Power BI Integration** web application! This app allows you to interact with dummy data in a beautifully organized table format. With powerful filtering options and seamless integration with **Power BI**, you can easily visualize your data and gain insights in no time!
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Interactive Data Table**: Display dummy data in a clean and organized table.
+- **Column Filtering**: Customize the table by filtering which columns to display, giving you full control over the data.
+- **Power BI Integration**: View dynamic reports on your data directly below the table with a fully integrated Power BI report.
+- **React-based**: Built using React for fast, responsive, and smooth user experience.
 
-### `npm start`
+## How It Works
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. **Filter Columns**: You can easily filter which columns to show or hide in the table by using the filter options.
+2. **View Data**: Once you've set your filters, the table will update in real time to reflect your choices.
+3. **Power BI Reports**: Below the table, you will find an embedded Power BI report that dynamically pulls data from the same source, helping you visualize the information more effectively.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installation
 
-### `npm test`
+To get started with the project, follow these simple steps:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Prerequisites
+- **Node.js** (v14 or higher)
+- **npm** or **yarn** (package manager)
 
-### `npm run build`
+### Steps
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/data-table-powerbi-integration.git
+    ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Navigate to the project directory:
+    ```bash
+    cd data-table-powerbi-integration
+    ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. Install dependencies:
+    ```bash
+    npm install
+    ```
 
-### `npm run eject`
+4. Run the development server:
+    ```bash
+    npm start
+    ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+5. Open your browser and go to `http://localhost:3000` to see the application in action!
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Technologies Used
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **React**: For building the user interface.
+- **Power BI Embedded**: For integrating dynamic and interactive reports.
+- **Axios**: For making API requests to fetch data.
+- **Material-UI**: For UI components and styling.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Contributing
 
-## Learn More
+We welcome contributions to this project! If you find any issues or would like to add new features, feel free to fork the repository and create a pull request. 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Here’s how you can contribute:
+1. Fork this repository.
+2. Create a branch for your feature or fix.
+3. Commit your changes.
+4. Push to your forked repository.
+5. Open a pull request with a description of your changes.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## License
 
-### Code Splitting
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for checking out our **Data Table with Power BI Integration** app! We hope it helps you interact with your data in a fun and efficient way. If you have any feedback or questions, feel free to reach out!
